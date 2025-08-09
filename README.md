@@ -27,3 +27,5 @@ Credits
 This project was originally created by Jonas Schmedtmann as part of his course.
 I, Mohammad Masham, followed and coded this project for learning purposes. I am very thankful to Jonas for providing such a well-structured and educational project. This project belongs to him, and all credit goes to his excellent teaching.
 
+((( There is no reset button yet but you can reset by app.reset() in console in developer tools )))
+
